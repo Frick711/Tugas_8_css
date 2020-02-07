@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+p{color:blue;
+	text-align: right;
+}
+p.dua{color:green;
+text-align: left;
+}
+p.tiga{color:red;
+text-align: right;
+}
+.satu{background-image:url("file:///C:/Users/Felicia/Downloads/avocado.jpg");
+background-repeat: repeat-y;
+width:70%;
+height:70%;
+overflow: scroll;
+font-weight: bold;
+background-color: white}
+body{background-image: url("../../../Documents/Unnamed Site 2/Stupa_Borobudur.jpg");
+background-size: contain}
